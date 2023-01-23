@@ -1,5 +1,5 @@
 var showimg;
-const excluidos = /[A-Z\ á é í ó ú]/;
+const excluidos = /[A-Z\áéíóú]/;
 
 var textIn = document.querySelector("#entrada-de-texto");
 var textOut = document.querySelector("#resultado-encriptado");
